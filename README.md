@@ -27,6 +27,4 @@ I'm a **Full Stack Developer** passionate about technology, focused on building 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcelle-tabosa)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcelleTabosa)
 
----
-
 🌟 **Let's code and create together!**
