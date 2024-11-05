@@ -1,6 +1,8 @@
-# 👋 Hi there! I'm Marcelle Tabosa!
+# 👋 Hi there! 
 
-### About Me
+## 👩‍💻 I'm Marcelle Tabosa! 
+
+### About Me 
 
 I'm a **Full Stack Developer** passionate about technology, focused on building smart and efficient solutions. Currently working with **.NET**, **Angular** and **AWS**, I'm always seeking new opportunities to enhance my skills and help others step into the programming world!
 
